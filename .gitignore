@@ -1,0 +1,7 @@
+email_spam_detection.keras
+tokenizer.pkl
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
